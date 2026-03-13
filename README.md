@@ -126,4 +126,4 @@ pyinstaller --onefile --windowed --icon=bmi_icon.ico bmi_calculator.py
 
 ## 👤 Author
 
-Made by **AA** — Self-Made Python Project
+Made by **Aditya Jaiswal** — Self-Made Python Project
