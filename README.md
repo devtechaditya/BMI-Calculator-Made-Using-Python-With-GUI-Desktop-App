@@ -1,1 +1,1 @@
-# BMI-Calculator-Made-Using-Python-With-GUI---Desktop-App
+# BMI-Calculator-Made-Using-Python-With-GUI-Desktop-App
